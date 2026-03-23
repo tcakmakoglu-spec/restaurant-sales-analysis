@@ -1,0 +1,9 @@
+Restaurant Sales Analysis Report
+
+Saturday has the highest total sales.
+Sunday has the highest average bill.
+Smokers spend more on average.
+Tables of 6 spend the most.
+
+Recommendation:
+Focus marketing on larger groups, especially tables of 6.
